@@ -1,8 +1,12 @@
 # Hi, I'm Mozon 👋
 
-💻 I'm a **Software Developer** passionate about **Backend Development**, building APIs, and creating useful systems.  
-🚀 Currently working with **Node.js, Express, and MongoDB**, and improving my skills in **Full-Stack Development**.  
-📚 Interested in **databases, problem solving, and software engineering best practices**.  
+💻 **Backend-focused Software Developer** with hands-on experience in building **real-world backend systems**, designing **scalable RESTful APIs**, and solving practical problems through clean and maintainable code.
+
+🚀 Currently working with **Node.js, Express, and MongoDB**, and continuously improving my skills in **Full-Stack Development**.
+
+📚 Interested in **databases, system design, problem solving, and software engineering best practices**.
+
+🧩 Experienced in building backend systems with **JWT authentication, role-based access control, payments, and media handling**.
 
 ---
 
@@ -25,36 +29,50 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
+### Other Experience  
+- JavaFX Desktop Applications  
+- Full-Stack Web Development (PHP, HTML, CSS, JavaScript)
+
 ---
 
-## 📂 Featured Projects
-- 💰 [**Manage-Monthly-Expenses-API**](https://github.com/mozon-shawwa/Manage-Monthly-Expenses-API) –  
-  A **Node.js backend** providing a **RESTful API** to manage user accounts, monthly income, and expenses.
+## 📂 Featured Projects  
 
-- 💊 [**Pharmacy And Drug System**](https://github.com/mozon-shawwa/Pharmacy-And-Drug-System-API) –  
-  Backend API for managing medicines and their alternatives. Developed using **Node.js, Express, and MongoDB**.  
+🔹 **AgirLife Platform API**  
+Node.js, Express, MongoDB, JWT, Cloudinary  
+Backend API powering a platform that connects users with agricultural resources.  
+Includes authentication, product management, shopping cart, orders, blogs, stories, contact messages, and secure image uploads.  
+🔗 https://github.com/mozon-shawwa/AgirLife  
 
-- 🍽️ [**Restaurant APP**](https://github.com/mozon-shawwa/Resturant-APP) –  
-  Node.js backend for restaurant management including meals, categories, orders, and users.  
+🔹 **E-Commerce RESTful API**  
+Node.js, Express, MongoDB, Stripe, JWT  
+Backend system for an e-commerce platform with user/admin roles, cart, wishlist, reviews, and secure checkout.  
+🔗 https://github.com/mozon-shawwa/e-commerce  
+
+🔹 **Restaurant Management API**  
+Node.js, Express, MongoDB  
+API for managing meals, categories, users, orders, and authentication in a restaurant system.  
+🔗 https://github.com/mozon-shawwa/Restaurant-APP  
+
+🔹 **Expense Tracker API**  
+Node.js, Express  
+RESTful API for managing personal income and monthly expenses with user authentication.  
+🔗 https://github.com/mozon-shawwa/Manage-Monthly-Expenses-API  
+
+🔹 **Pharmacy & Drug System API**  
+Node.js, Express, MongoDB  
+Backend system for managing pharmacies and medications, including drug search, alternatives, and authentication.  
+🔗 https://github.com/mozon-shawwa/Pharmacy-And-Drug-System-API  
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozon-shawwa&show_icons=true&theme=radical" height="165"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozon-shawwa&layout=compact&theme=radical" height="165"/>
-</p>
+![Mozon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mozon-shawwa&show_icons=true)
 
 ---
 
-## 🐍 GitHub Activity Snake
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mozon-shawwa&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-## 📫 Connect with me  
+## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozon-el-shawwa)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozon.elshawwa@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozon.elshawwa@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozon.elshawwa@gmail.com)
 
