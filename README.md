@@ -1,67 +1,77 @@
 # Hi, I'm Mozon 👋
 
-💻 **Backend-focused Software Developer** with hands-on experience in building **real-world backend systems**, designing **scalable RESTful APIs**, and solving practical problems through clean and maintainable code.
+💻 Backend-focused Software Developer with hands-on experience in building real-world backend systems, designing scalable RESTful APIs, and delivering practical solutions using clean and maintainable code.
 
-🚀 Currently working with **Node.js, Express, and MongoDB**, and continuously improving my skills in **Full-Stack Development**.
+🚀 Currently working with Node.js, Express, and MongoDB, and continuously improving my skills in Full-Stack Development.
 
-📚 Interested in **databases, system design, problem solving, and software engineering best practices**.
+💼 Worked on full backend and full-stack systems including Hospital and Library Management Systems.
 
-🧩 Experienced in building backend systems with **JWT authentication, role-based access control, payments, and media handling**.
+📚 Interested in databases, system design, problem solving, and software engineering best practices.
+
+🧩 Experienced in building backend systems with JWT authentication, role-based access control, payments, and media handling.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+### 🔹 Languages & Frameworks
+- Java
+- JavaScript
+- Node.js
+- Express
 
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+### 🔹 Databases
+- MongoDB
+- MySQL
 
-### Tools & IDEs  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+### 🔹 Tools & IDEs
+- Git
+- GitHub
+- VS Code
+- NetBeans
+- Postman
 
-### Other Experience  
-- JavaFX Desktop Applications  
+### 🔹 Other Experience
+- JavaFX Desktop Applications
 - Full-Stack Web Development (PHP, HTML, CSS, JavaScript)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-🔹 **AgirLife Platform API**  
-Node.js, Express, MongoDB, JWT, Cloudinary  
+### 🔹 AgirLife Platform API
+**Node.js, Express, MongoDB, JWT, Cloudinary**  
 Backend API powering a platform that connects users with agricultural resources.  
 Includes authentication, product management, shopping cart, orders, blogs, stories, contact messages, and secure image uploads.  
-🔗 https://github.com/mozon-shawwa/AgirLife  
+🔗 https://github.com/mozon-shawwa/AgirLife
 
-🔹 **E-Commerce RESTful API**  
-Node.js, Express, MongoDB, Stripe, JWT  
+---
+
+### 🔹 E-Commerce RESTful API
+**Node.js, Express, MongoDB, Stripe, JWT**  
 Backend system for an e-commerce platform with user/admin roles, cart, wishlist, reviews, and secure checkout.  
-🔗 https://github.com/mozon-shawwa/e-commerce  
+🔗 https://github.com/mozon-shawwa/e-commerce
 
-🔹 **Restaurant Management API**  
-Node.js, Express, MongoDB  
+---
+
+### 🔹 Restaurant Management API
+**Node.js, Express, MongoDB**  
 API for managing meals, categories, users, orders, and authentication in a restaurant system.  
-🔗 https://github.com/mozon-shawwa/Restaurant-APP  
+🔗 https://github.com/mozon-shawwa/Restaurant-APP
 
-🔹 **Expense Tracker API**  
-Node.js, Express  
+---
+
+### 🔹 Expense Tracker API
+**Node.js, Express**  
 RESTful API for managing personal income and monthly expenses with user authentication.  
-🔗 https://github.com/mozon-shawwa/Manage-Monthly-Expenses-API  
+🔗 https://github.com/mozon-shawwa/Manage-Monthly-Expenses-API
 
-🔹 **Pharmacy & Drug System API**  
-Node.js, Express, MongoDB  
+---
+
+### 🔹 Pharmacy & Drug System API
+**Node.js, Express, MongoDB**  
 Backend system for managing pharmacies and medications, including drug search, alternatives, and authentication.  
-🔗 https://github.com/mozon-shawwa/Pharmacy-And-Drug-System-API  
+🔗 https://github.com/mozon-shawwa/Pharmacy-And-Drug-System-API
 
 ---
 
