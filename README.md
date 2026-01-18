@@ -18,7 +18,7 @@
 - Java
 - JavaScript
 - Node.js
-- Express
+- Express.js
 
 ### 🔹 Databases
 - MongoDB
