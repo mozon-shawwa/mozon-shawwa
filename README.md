@@ -48,7 +48,7 @@ Production-ready backend system powering **MahaStore**, a real-world, live e-com
 -   **Private Source Code:** The source code for the API and frontend applications is kept in private repositories to protect the client's intellectual property.
 
 **🔗 Live Links:**
--   **Live Store:** [https://mahastore.vercel.app/](https://mahastore-ecommerce.vercel.app/ )
+-   **Live Store:** [https://mahastore-ecommerce.vercel.app/](https://mahastore-ecommerce.vercel.app/ )
 -   **Live Admin Dashboard:** [https://mahastore-dashboard.vercel.app/](https://mahastore-dashboard.vercel.app/ )
 
 ---
