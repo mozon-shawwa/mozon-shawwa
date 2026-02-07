@@ -36,8 +36,22 @@
 - Full-Stack Web Development (PHP, HTML, CSS, JavaScript)
 
 ---
-
 ## 📂 Featured Projects
+
+### 🔹 MahaStore - Live E-commerce Platform Backend
+**Node.js, Express, MongoDB, JWT, Cloudinary, Vercel, Render**  
+Production-ready backend system powering **MahaStore**, a real-world, live e-commerce business. This API serves both a customer-facing storefront and a comprehensive admin dashboard for managing the entire business operation.
+
+-   **Real-World Application:** Developed for a live business, handling real products, orders, and customer data.
+-   **Dual-Interface Support:** Provides endpoints for both the main store (product browsing, cart, checkout) and a full-featured admin dashboard (analytics, user management, order processing).
+-   **Deployed & Live:** The API is deployed on Render and the frontend applications are live on Vercel, demonstrating a complete MERN stack deployment workflow.
+-   **Private Source Code:** The source code for the API and frontend applications is kept in private repositories to protect the client's intellectual property.
+
+**🔗 Live Links:**
+-   **Live Store:** [https://mahastore.vercel.app/](https://mahastore-ecommerce.vercel.app/ )
+-   **Live Admin Dashboard:** [https://mahastore-dashboard.vercel.app/](https://mahastore-dashboard.vercel.app/ )
+
+---
 
 ### 🔹 AgirLife Platform API
 **Node.js, Express, MongoDB, JWT, Cloudinary**  
